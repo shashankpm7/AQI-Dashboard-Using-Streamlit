@@ -27,7 +27,7 @@ pip install -r requirements.txt
 Run the Streamlit app with:
 
 ```bash
-streamlit run main.py
+python -m streamlit run main.py
 ```
 
 The dashboard will open in your default web browser.
